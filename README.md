@@ -106,8 +106,8 @@ the browser.
 
 ### Deliverables
 
-- **Update the header**: the text is a little wonky being aligned on the left
-  like that. Provide a property that aligns it in the center instead.
+- **Update the header**: the text is a little wonky being 1||aligned|| on the left
+  like that. Provide a property that ||aligns|| it in the ||center instead.||
 
 - **Center our image**: We only have one image on the page and we would like it
   centered!
@@ -130,7 +130,10 @@ the browser.
   each of the `<div>`s `float` to the `left`.
 
 - **As a finishing touch**: Let's clean up the `<div>`s at the bottom of the
-  page. All of them should have the same background color, centered text, and
+  page.
+   All of them should have the same background color,
+    centered text,
+     and
   occupy 25% of the `width` of the bottom row (since we have 4 divs).
 
 ## Conclusion
